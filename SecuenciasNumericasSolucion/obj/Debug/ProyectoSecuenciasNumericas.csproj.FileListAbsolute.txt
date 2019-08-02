@@ -1,0 +1,7 @@
+C:\Users\eivan\documents\visual studio 2015\Projects\Fibonacci_\Fibonacci_\bin\Debug\Fibonacci_.exe.config
+C:\Users\eivan\documents\visual studio 2015\Projects\Fibonacci_\Fibonacci_\bin\Debug\Fibonacci_.exe
+C:\Users\eivan\documents\visual studio 2015\Projects\Fibonacci_\Fibonacci_\bin\Debug\Fibonacci_.pdb
+C:\Users\eivan\documents\visual studio 2015\Projects\Fibonacci_\Fibonacci_\obj\Debug\ProyectoFibonacci.InterfacesGraficas.Formulario.resources
+C:\Users\eivan\documents\visual studio 2015\Projects\Fibonacci_\Fibonacci_\obj\Debug\ProyectoSecuenciasNumericas.csproj.GenerateResource.Cache
+C:\Users\eivan\documents\visual studio 2015\Projects\Fibonacci_\Fibonacci_\obj\Debug\Fibonacci_.exe
+C:\Users\eivan\documents\visual studio 2015\Projects\Fibonacci_\Fibonacci_\obj\Debug\Fibonacci_.pdb
